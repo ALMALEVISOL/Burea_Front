@@ -14,3 +14,23 @@ a {
 * {
   box-sizing: border-box;
 }
+
+
+.sidebar a{
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+}
+
+p.document{
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+code {
+  background-color: rgba(57, 176, 206, 0.637);
+  border-radius: 3px;
+  padding: 2px 4px;
+}
